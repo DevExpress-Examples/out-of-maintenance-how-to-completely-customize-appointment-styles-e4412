@@ -4,8 +4,8 @@
         xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
         xmlns:dxsch="http://schemas.devexpress.com/winfx/2008/xaml/scheduler"
         xmlns:dxscht="http://schemas.devexpress.com/winfx/2008/xaml/scheduler/themekeys"
-        xmlns:dxschd="clr-namespace:DevExpress.Xpf.Scheduler.Drawing;assembly=DevExpress.Xpf.Scheduler.v16.1" 
-        xmlns:dxschdui="clr-namespace:DevExpress.Xpf.Scheduler.UI;assembly=DevExpress.Xpf.Scheduler.v16.1"
+        xmlns:dxschd="clr-namespace:DevExpress.Xpf.Scheduler.Drawing;assembly=DevExpress.Xpf.Scheduler.v21.1" 
+        xmlns:dxschdui="clr-namespace:DevExpress.Xpf.Scheduler.UI;assembly=DevExpress.Xpf.Scheduler.v21.1"
         Title="MainWindow" Height="350" Width="525">
 
     <Window.Resources>
